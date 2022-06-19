@@ -1,3 +1,5 @@
+## Metamask extension with account required
+
 ## [1 - Interact with Smart Contracts in React]
 
 ```
